@@ -58,7 +58,7 @@
 <p align="center"><img src="https://placehold.co/900x120/161b22/39e75f?text=Separador%20%2F%20GIF&font=raleway" width="100%" alt="separador"/></p>
 
 <h2>Estadísticas</h2>
-<img align="right" src="https://placehold.co/260x360/161b22/39e75f?text=Personaje&font=raleway" width="240" alt="personaje"/>
+<img align="right" src="./cbde4275f098a0383f388c51e45ea92f.jpg" width="240" alt="personaje"/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&locale=es&bg_color=0d1117&title_color=39e75f&icon_color=39e75f&text_color=c9d1d9&border_color=30363d&border_radius=10" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&locale=es&bg_color=0d1117&title_color=39e75f&icon_color=39e75f&text_color=c9d1d9&border_color=30363d&border_radius=10" height="165"/>
