@@ -1,4 +1,4 @@
-<p align="center"><img src="https://placehold.co/1200x340/161b22/39e75f?text=Tu%20portada%20aqu%C3%AD&font=raleway" width="100%" alt="portada"/></p>
+<p align="center"><img src="./d3379d07e14ef3c420f985cd826d66de.jpg" width="100%" alt="portada"/></p>
 
 <h1 align="center">Hola, soy <a href="https://github.com/octocat">Julio</a></h1>
 
