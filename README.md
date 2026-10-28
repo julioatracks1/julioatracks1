@@ -1,9 +1,5 @@
 <p align="center"><img src="./d3379d07e14ef3c420f985cd826d66de.jpg" width="100%" alt="portada"/></p>
 
-<h1 align="center">Hola, soy <a href="https://github.com/octocat">Julio</a></h1>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=600&size=22&duration=3500&pause=900&color=4493F8&center=true&vCenter=true&width=520&lines=Full%20Stack%20Developer%3BSiempre%20aprendiendo%20algo%20nuevo%3BOpen%20source%20y%20caf%C3%A9" alt="typing"/></p>
-
 <p align="center">
   <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -22,6 +18,7 @@
 </table>
 
 <h2>Tecnologías</h2>
+<img align="right" src="./cbde4275f098a0383f388c51e45ea92f.jpg" width="220" alt="imagen"/>
 <h3>Lenguajes</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -55,14 +52,10 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 </p>
 
-<p align="center"><img src="https://placehold.co/900x120/161b22/39e75f?text=Separador%20%2F%20GIF&font=raleway" width="100%" alt="separador"/></p>
-
 <h2>Estadísticas</h2>
-<img align="right" src="./cbde4275f098a0383f388c51e45ea92f.jpg" width="240" alt="personaje"/>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&locale=es&bg_color=0d1117&title_color=39e75f&icon_color=39e75f&text_color=c9d1d9&border_color=30363d&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&locale=es&bg_color=0d1117&title_color=39e75f&icon_color=39e75f&text_color=c9d1d9&border_color=30363d&border_radius=10" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julioatracks1&show_icons=true&locale=es&bg_color=0d1117&title_color=39e75f&icon_color=39e75f&text_color=c9d1d9&border_color=30363d&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioatracks1&layout=compact&locale=es&card_width=320&bg_color=0d1117&title_color=39e75f&icon_color=39e75f&text_color=c9d1d9&border_color=30363d&border_radius=10" height="180"/>
 </p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=octocat&locale=es&background=0D1117&ring=39E75F&fire=39E75F&currStreakLabel=39E75F&sideLabels=4493F8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9198A1&stroke=30363D&border=30363D&border_radius=10"/></p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4493f8,100:00a651&height=110&section=footer" width="100%"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=julioatracks1&locale=es&background=0D1117&ring=39E75F&fire=39E75F&currStreakLabel=39E75F&sideLabels=4493F8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9198A1&stroke=30363D&border=30363D&border_radius=10&card_width=660"/></p>
+<p align="center"><img src="https://placehold.co/1000x260/161b22/39e75f?text=Imagen&font=raleway" width="100%" alt="imagen"/></p>
