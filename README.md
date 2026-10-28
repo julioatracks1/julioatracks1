@@ -12,7 +12,7 @@
 </p>
 
 <h2>Sobre mí</h2>
-<img align="right" src="https://placehold.co/220x220/161b22/39e75f?text=Imagen&font=raleway" width="200" alt="sobre mí"/>
+<img align="right" src="./47a2733264a6be2ef14862baafb5b8b3.jpg" width="200" alt="sobre mí"/>
 <p>Desarrollador de software en formación en la Universidad Tecnológica de Torreón. Egresé del TSU en Desarrollo de Software en agosto de 2026 y continúo hacia la Ingeniería en Tecnologías de la Información e Innovación Digital.</p>
 <table>
   <tr><td><b>Formación</b></td><td>TSU en Desarrollo de Software · Universidad Tecnológica de Torreón</td></tr>
