@@ -58,4 +58,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioatracks1&layout=compact&locale=es&card_width=320&bg_color=0d1117&title_color=39e75f&icon_color=39e75f&text_color=c9d1d9&border_color=30363d&border_radius=10" height="180"/>
 </p>
 <p align="center"><img src="https://streak-stats.demolab.com?user=julioatracks1&locale=es&background=0D1117&ring=39E75F&fire=39E75F&currStreakLabel=39E75F&sideLabels=4493F8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9198A1&stroke=30363D&border=30363D&border_radius=10&card_width=660"/></p>
-<p align="center"><img src="https://placehold.co/1000x260/161b22/39e75f?text=Imagen&font=raleway" width="100%" alt="imagen"/></p>
+
